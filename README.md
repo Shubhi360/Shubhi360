@@ -18,8 +18,8 @@
 - Currently learning: **Web Development** (HTML, CSS, JavaScript)
 
 ### 🌐 Let's Connect
-- 🌍 [Portfolio/Website (if any)](Link to your portfolio)  
-- 📫 Reach me via email: [YourEmail@example.com](mailto:YourEmail@example.com)  
+- 🌍 On Linkedin: www.linkedin.com/in/shubhi-sahu145  
+- 📫 Reach me via email: shubhisahu1515@gmail.com  
 - 💬 Ask me about: **DSA**, **coding journey**, or **how I’m preparing for internships!**
 
 ### 🚀 Fun Facts
